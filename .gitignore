@@ -1,0 +1,36 @@
+# Archivo con la clase para inicializar el bot de Telegram
+envFile.json
+
+# Archivos de compilación y carpetas generadas
+bin/
+obj/
+
+# Archivos de dependencias
+packages/
+*.dll
+*.exe
+
+# Archivos de configuración local
+*.user
+*.suo
+*.vs/
+
+# Archivos de compilación de Visual Studio
+*.pdb
+*.obj
+*.suo
+*.cache
+*.ilk
+*.ncb
+*.log
+*.config.user
+[Tt]est[Rr]esult*
+
+# Carpeta de respaldo de Visual Studio Code
+.vscode/
+
+# Otros
+Thumbs.db
+Desktop.ini
+*.DS_Store
+
